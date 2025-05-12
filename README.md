@@ -147,19 +147,6 @@ La diatermia promueve:
 - Comparada con ultrasonido: más homogénea y profunda  
   [Cho & Lee, 2020](https://doi.org/10.1589/jpts.32.344)
 
----
-
-## 🎲 Formato Educativo
-
-**Juego de mesa clínico:**
-- Tablero tipo escaleras y serpientes
-- Fichas con forma de medios físicos
-- Tarjetas de tipo:
-  - 🎴 Cheat Sheets (acción libre)
-  - 🩺 Casos clínicos (preguntas técnicas)
-  - 👹 Jefe Final (casillas 97–100)
-
-**Gana quien llegue al final y responda correctamente el caso complejo**
 
 
 ---
