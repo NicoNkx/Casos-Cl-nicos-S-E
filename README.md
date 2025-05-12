@@ -163,6 +163,149 @@ La diatermia promueve:
 
 ---
 
+## 🩺 Casos Clínicos de Aplicación de Diatermia
+
+### Caso 1: Carlos (45 años)
+
+**Diagnóstico:** Dolor lumbar crónico por malas posturas
+
+✅ **Correcto**
+
+* Tipo de diatermia: Capacitiva o resistiva (0.8 – 1.2 MHz)
+* Indicaciones: Dolor musculoesquelético crónico
+* Efectos: Vasodilatación, metabolismo ↑, analgesia, relajación
+* Parámetros: Media potencia, 15–20 min, 2–3 sesiones/semana
+* Justificación: Reduce contractura sin riesgos
+
+---
+
+### Caso 2: María (68 años)
+
+**Diagnóstico:** Artrosis leve en rodilla con marcapasos
+
+❌ **Correcto (contraindicación)**
+
+* Tipo de diatermia: No debe aplicarse
+* Contraindicación: Uso de marcapasos
+* Efectos: Riesgo de interferencia
+* Parámetros: No aplica
+* Justificación: Contraindicación absoluta por riesgo cardíaco
+
+---
+
+### Caso 3: Luis (28 años)
+
+**Diagnóstico:** Contractura en trapecio por estrés
+
+✅ **Correcto**
+
+* Tipo: Capacitiva (superficial-media)
+* Indicaciones: Contractura muscular
+* Efectos: Relajación, analgesia, ↑ flujo sanguíneo
+* Parámetros: Baja-media potencia, 10–15 min
+* Justificación: Reduce el tono muscular y mejora función
+
+---
+
+### Caso 4: Sofía (21 años)
+
+**Diagnóstico:** Esguince de tobillo grado I (24 h)
+
+❌ **Correcto (contraindicación)**
+
+* Tipo: No indicada en fase aguda
+* Contraindicaciones: Procesos inflamatorios agudos
+* Efectos: Puede ↑ inflamación y edema
+* Parámetros: No aplica
+* Justificación: Evitar en lesiones <72 h
+
+---
+
+### Caso 5: Andrés (50 años)
+
+**Diagnóstico:** Dolor en cadera por metástasis ósea
+
+❌ **Correcto (contraindicación)**
+
+* Tipo: Contraindicada completamente
+* Contraindicaciones: Tumores activos
+* Efectos: Estimula metabolismo y vascularización tumoral
+* Parámetros: No aplica
+* Justificación: Riesgo de proliferación tumoral
+
+---
+
+### Caso 6: Paula (39 años)
+
+**Diagnóstico:** Cicatriz posquirúrgica (15 días)
+
+✅ **Correcto**
+
+* Tipo: Capacitiva baja potencia
+* Indicaciones: Cicatriz no infectada
+* Efectos: Microcirculación ↑, elasticidad, ↓ dolor
+* Parámetros: 10–12 min, baja potencia (0.8–1 MHz)
+* Justificación: Reactiva metabolismo, previene fibrosis
+
+---
+
+### Caso 7: Jorge (33 años)
+
+**Diagnóstico:** Epicondilitis lateral (codo de tenista)
+
+✅ **Correcto**
+
+* Tipo: Resistiva
+* Indicaciones: Tendinopatías crónicas/subagudas
+* Efectos: Vascularización profunda, reparación tendinosa
+* Parámetros: 12–15 min, potencia moderada (0.5–1 MHz)
+* Justificación: Alcanza tejido profundo eficientemente
+
+---
+
+### Caso 8: Camila (30 años)
+
+**Diagnóstico:** Dolor cervical durante embarazo (22 sem)
+
+❌ **Correcto (contraindicación)**
+
+* Tipo: Contraindicada
+* Contraindicaciones: Embarazo en curso
+* Efectos: Posibles efectos sistémicos
+* Parámetros: No aplicar
+* Justificación: Riesgo fetal potencial
+
+---
+
+### Caso 9: Diana (26 años)
+
+**Diagnóstico:** Fibromialgia con dolor muscular difuso
+
+✅ **Correcto**
+
+* Tipo: Capacitiva suave
+* Indicaciones: Dolor músculo-esquelético crónico
+* Efectos: Regulación del tono, ↑ circulación, ↓ dolor
+* Parámetros: 10 min en zonas localizadas, muy baja potencia
+* Justificación: Parte de un abordaje integral
+
+---
+
+### Caso 10: Manuel (52 años)
+
+**Diagnóstico:** Rigidez y debilidad post fractura radial
+
+✅ **Correcto**
+
+* Tipo: Resistiva
+* Indicaciones: Post-inmovilización
+* Efectos: Extensibilidad ↑, metabolismo ↑, analgesia
+* Parámetros: 10–15 min, potencia baja-media
+* Justificación: Mejora movilidad tras consolidación
+
+
+---
+
 ## 🔗 Referencias
 
 - Cho & Lee (2020). [Estudio comparativo](https://doi.org/10.1589/jpts.32.344)  
